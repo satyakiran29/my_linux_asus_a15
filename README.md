@@ -22,7 +22,8 @@ A collection of configuration guides, fixes, and utilities for running Linux (sp
 
 ### Ubuntu 26.04 LTS
 *   [**Screen Brightness Fix**](Ubuntu_26.04%20LTS/display_fix.md) - Resolve issues with adjusting display brightness by modifying GRUB settings.
-
+*   [**System Information with Fastfetch**](Ubuntu_26.04%20LTS/fastfetch.md) - Install and run Fastfetch to display detailed system specifications in the terminal.
+*   [**System Monitor with btop**](Ubuntu_26.04%20LTS/btop.md) - Install btop for an interactive, terminal-based resource and process monitor.
 
 ---
 *Created and maintained by Satyakiran.*

@@ -24,6 +24,7 @@ A collection of configuration guides, fixes, and utilities for running Linux (sp
 *   [**Screen Brightness Fix**](Ubuntu_26.04%20LTS/display_fix.md) - Resolve issues with adjusting display brightness by modifying GRUB settings.
 *   [**System Information with Fastfetch**](Ubuntu_26.04%20LTS/fastfetch.md) - Install and run Fastfetch to display detailed system specifications in the terminal.
 *   [**System Monitor with btop**](Ubuntu_26.04%20LTS/btop.md) - Install btop for an interactive, terminal-based resource and process monitor.
+*   [**ASUS Armoury Crate Features & GPU Switch Guide**](Ubuntu_26.04%20LTS/asusctl_setup.md) - Enable NVIDIA GPU, build asusctl & rog-control-center from source, and fix missing icon panics on Ubuntu 26.04 LTS.
 
 ---
 *Created and maintained by Satyakiran.*

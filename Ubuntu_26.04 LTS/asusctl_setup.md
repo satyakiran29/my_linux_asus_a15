@@ -140,6 +140,14 @@ nvidia-smi
 
 ---
 
-*Special thanks to the ASUS Linux community for their incredible tools!* ❤️
+## 🤝 Credits & Acknowledgements
+
+This setup is made possible by the dedication of the **ASUS Linux** community. Special thanks to:
+* **Luke Jones (Shadowryg / aslatter)** — Creator and lead developer of `asusctl`, `asusd`, and `supergfxctl`.
+* **ASUS Linux Community** — For providing documentation, discord support, and resources at [asus-linux.org](https://asus-linux.org/).
+* **Open Source Contributors** — Everyone helping make gaming and hardware management on Linux a seamless experience.
 
 #Linux #Ubuntu #ASUS #GamingLaptop #NVIDIA #OpenSource #GNOME #Ryzen #LinuxGaming
+
+---
+*Tested and documented by Satyakiran.*
